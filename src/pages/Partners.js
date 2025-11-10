@@ -1,9 +1,7 @@
 import React from 'react';
 import { FaHandshake, FaGlobe, FaTruck, FaBuilding, FaWineBottle, FaAward } from 'react-icons/fa';
-import { useLanguage } from '../context/LanguageContext';
 
 const Partners = () => {
-  // const { t } = useLanguage(); // Commented out as not used in current implementation
 
   const partnerCategories = [
     {

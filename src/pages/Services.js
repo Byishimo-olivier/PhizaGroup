@@ -1,10 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaTruck, FaHome, FaWineBottle, FaArrowRight, FaGlobe, FaShieldAlt, FaClock } from 'react-icons/fa';
-import { useLanguage } from '../context/LanguageContext';
 
 const Services = () => {
-  // const { t } = useLanguage(); // Commented out as not used in current implementation
 
   const mainServices = [
     {
