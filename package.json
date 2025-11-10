@@ -1,7 +1,6 @@
 {
   "name": "phizergroup",
   "version": "0.1.0",
-  "homepage": "https://byishimo-olivier.github.io/PhizaGroup",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
