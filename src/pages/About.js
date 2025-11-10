@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaShieldAlt, FaUsers, FaGlobe, FaAward, FaHandshake, FaHeart } from 'react-icons/fa';
+import { FaShieldAlt, FaUsers, FaGlobe, FaHandshake } from 'react-icons/fa';
 import { useLanguage } from '../context/LanguageContext';
 
 const About = () => {

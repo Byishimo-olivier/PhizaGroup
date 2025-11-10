@@ -3,7 +3,7 @@ import { FaHandshake, FaGlobe, FaTruck, FaBuilding, FaWineBottle, FaAward } from
 import { useLanguage } from '../context/LanguageContext';
 
 const Partners = () => {
-  const { t } = useLanguage();
+  // const { t } = useLanguage(); // Commented out as not used in current implementation
 
   const partnerCategories = [
     {

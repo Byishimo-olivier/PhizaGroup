@@ -120,12 +120,12 @@ const Footer = () => {
               © {new Date().getFullYear()} PhizerGroup. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors duration-200">
+              <button className="text-gray-400 hover:text-primary-400 transition-colors duration-200">
                 Privacy Policy
-              </a>
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors duration-200">
+              </button>
+              <button className="text-gray-400 hover:text-primary-400 transition-colors duration-200">
                 Terms of Service
-              </a>
+              </button>
             </div>
           </div>
         </div>

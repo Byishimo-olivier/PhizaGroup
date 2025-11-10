@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaWifi, FaParking, FaSwimmingPool, FaUtensils, FaMapMarkerAlt, FaStar, FaCalendarAlt } from 'react-icons/fa';
+import { FaWifi, FaParking, FaSwimmingPool, FaUtensils, FaMapMarkerAlt, FaStar } from 'react-icons/fa';
 import { useLanguage } from '../context/LanguageContext';
 import { sendApartmentBookingEmail } from '../utils/emailService';
 

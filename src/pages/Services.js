@@ -4,7 +4,7 @@ import { FaTruck, FaHome, FaWineBottle, FaArrowRight, FaGlobe, FaShieldAlt, FaCl
 import { useLanguage } from '../context/LanguageContext';
 
 const Services = () => {
-  const { t } = useLanguage();
+  // const { t } = useLanguage(); // Commented out as not used in current implementation
 
   const mainServices = [
     {

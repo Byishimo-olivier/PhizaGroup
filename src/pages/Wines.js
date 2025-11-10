@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaWineBottle, FaGlobe, FaShippingFast, FaAward, FaFilter } from 'react-icons/fa';
+import { FaGlobe, FaShippingFast, FaAward } from 'react-icons/fa';
 import { useLanguage } from '../context/LanguageContext';
 
 const Wines = () => {
